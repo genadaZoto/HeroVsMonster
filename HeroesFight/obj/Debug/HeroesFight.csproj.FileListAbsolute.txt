@@ -1,0 +1,20 @@
+C:\Users\g.zoto\source\repos\HeroesFight\HeroesFight\obj\Debug\HeroesFight.csprojAssemblyReference.cache
+C:\Users\g.zoto\source\repos\HeroesFight\HeroesFight\obj\Debug\HeroesFight.csproj.CoreCompileInputs.cache
+C:\Users\g.zoto\source\repos\HeroesFight\HeroesFight\bin\Debug\HeroesFight.exe.config
+C:\Users\g.zoto\source\repos\HeroesFight\HeroesFight\bin\Debug\HeroesFight.exe
+C:\Users\g.zoto\source\repos\HeroesFight\HeroesFight\bin\Debug\HeroesFight.pdb
+C:\Users\g.zoto\source\repos\HeroesFight\HeroesFight\obj\Debug\HeroesFight.exe
+C:\Users\g.zoto\source\repos\HeroesFight\HeroesFight\obj\Debug\HeroesFight.pdb
+C:\Users\g.zoto\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\bin\Debug\HeroesFight.exe.config
+C:\Users\g.zoto\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\bin\Debug\HeroesFight.exe
+C:\Users\g.zoto\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\bin\Debug\HeroesFight.pdb
+C:\Users\g.zoto\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\obj\Debug\HeroesFight.csprojAssemblyReference.cache
+C:\Users\g.zoto\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\obj\Debug\HeroesFight.csproj.CoreCompileInputs.cache
+C:\Users\g.zoto\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\obj\Debug\HeroesFight.exe
+C:\Users\g.zoto\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\obj\Debug\HeroesFight.pdb
+C:\Users\Ola&Noemie\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\bin\Debug\HeroesFight.exe.config
+C:\Users\Ola&Noemie\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\bin\Debug\HeroesFight.exe
+C:\Users\Ola&Noemie\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\bin\Debug\HeroesFight.pdb
+C:\Users\Ola&Noemie\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\obj\Debug\HeroesFight.csprojAssemblyReference.cache
+C:\Users\Ola&Noemie\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\obj\Debug\HeroesFight.exe
+C:\Users\Ola&Noemie\OneDrive - Interface3\CSharp\HeroesFight\HeroesFight\obj\Debug\HeroesFight.pdb
